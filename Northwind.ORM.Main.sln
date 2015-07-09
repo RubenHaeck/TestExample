@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Northwind.ORM.Main", "Northwind.ORM.Main\Northwind.ORM.Main.csproj", "{1F2C4D31-3222-48FB-961D-81309783DBAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Northwind.ORM.Windows", "Northwind.ORM.Windows\Northwind.ORM.Windows.csproj", "{91600C29-525A-4D04-84B1-EB3F9676DABD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Northwind.ORM.ServiceHost", "Northwind.ORM.ServiceHost\Northwind.ORM.ServiceHost.csproj", "{15B5A8B7-2173-488E-A3F3-8BF810DB4D7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F2C4D31-3222-48FB-961D-81309783DBAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F2C4D31-3222-48FB-961D-81309783DBAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F2C4D31-3222-48FB-961D-81309783DBAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F2C4D31-3222-48FB-961D-81309783DBAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91600C29-525A-4D04-84B1-EB3F9676DABD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91600C29-525A-4D04-84B1-EB3F9676DABD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91600C29-525A-4D04-84B1-EB3F9676DABD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91600C29-525A-4D04-84B1-EB3F9676DABD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15B5A8B7-2173-488E-A3F3-8BF810DB4D7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15B5A8B7-2173-488E-A3F3-8BF810DB4D7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15B5A8B7-2173-488E-A3F3-8BF810DB4D7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15B5A8B7-2173-488E-A3F3-8BF810DB4D7F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
