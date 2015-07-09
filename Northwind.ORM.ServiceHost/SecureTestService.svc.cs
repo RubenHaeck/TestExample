@@ -16,7 +16,7 @@ namespace Northwind.ORM.ServiceHost
         }
 
         public int Calculate(int t = 0)
-        {
+        { 
             return 5 + t;
         }
     }
